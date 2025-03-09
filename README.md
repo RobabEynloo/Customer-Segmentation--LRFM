@@ -66,7 +66,7 @@ The implementation follows these steps:
 ## Usage
 Run the Python script with your CSV data file:
 ```
-python rfm_segmentation.py --input your_data.csv
+python rfm_analysis.py --input your_data.csv
 ```
 
 ## Output
